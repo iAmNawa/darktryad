@@ -1,0 +1,9 @@
+{
+  "name": "darktryad.com",
+  "description": "darktryad",
+  "dependencies": {
+    "body-parser": "",
+    "compression": "",
+    "express": ""
+  }
+}
