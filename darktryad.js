@@ -1,4 +1,4 @@
-var port = 666;
+var port = 6666;
 var app = require('express')();
 
 app.use(require('compression')());
