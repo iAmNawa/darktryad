@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Nosifer', cursive;
+  color: white;
+  font-size: 40px;
+}
+
+
+#esveegee {
+  width: 35%;
+  background-color: black;
+  margin-top: 100px;
+}
